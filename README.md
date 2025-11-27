@@ -46,7 +46,7 @@
 Below each project: live status, stars, issues, last commit, language stats, and (optional) CI workflow.  
 (If a repo doesn’t exist yet, create it first—badges auto-populate when live.)
 
-#### 1. AR Furniture Prototype (`ar-furniture-prototype`)
+#### 1. AR Furniture Prototype (EnVision)
 [![Repo](https://img.shields.io/badge/GitHub-Open%20Repo-181717?logo=github)](https://github.com/abbinavv/ar-furniture-prototype)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 ![iOS](https://img.shields.io/badge/Platform-iOS-000?logo=apple)
