@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abhinav Raj 👋</h1>
 
 <p align="center">
-  <b>B.Tech CS & Business Systems · CGPA 9.49 · iOS & Full-Stack Developer</b><br/>
+  <b>B.Tech CS & Business Systems · CGPA 9.44 · iOS & Full-Stack Developer</b><br/>
   <em>SRM Institute of Science and Technology · Chennai, India</em>
 </p>
 
