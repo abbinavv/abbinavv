@@ -20,7 +20,7 @@
 
 ### 👋 About Me
 
-I'm a third-year CS & Business Systems student at SRM Institute of Science and Technology (CGPA 9.49), passionate about building intuitive, production-ready software across iOS and the web.
+I'm a final-year CS & Business Systems student at SRM Institute of Science and Technology (CGPA 9.49), passionate about building intuitive, production-ready software across iOS and the web.
 
 - 📱 **iOS Developer Intern at Infosys** — shipped features for a retail operations platform within a 10-member Agile team; resolved 10+ iOS-to-backend API integration issues across engineering and QA
 - 💼 **Software Development Intern at UpSmart Solutions** — delivered 5+ production feature modules across Agile sprints and built an internal knowledge base that cut repeat escalations
